@@ -1,0 +1,15 @@
+{
+  "name": "driveuploader",
+  "version": "1.0.0",
+  "description": "Simple Drive Uploader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank L",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "googleapis": "^31.0.2"
+  }
+}
